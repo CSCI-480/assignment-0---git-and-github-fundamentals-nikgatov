@@ -13,5 +13,6 @@ using std::endl;
 
 int main()
 {
+	cut << "Operating systems are amazing!" << endl;
     return 0;
 }
